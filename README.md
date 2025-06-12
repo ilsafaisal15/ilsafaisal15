@@ -1,24 +1,11 @@
 ## Hi there, I'm Ilsa Faisal 👋
-**💻 About Me**  
-Hi! I'm **Ilsa Faisal**, a BS Software Engineering student at **SZABIST University** (2023–2026). I'm passionate about tech and always eager to learn new things. I'm currently refreshing my skills in **HTML, CSS, and JavaScript** while working on small projects to build my web development knowledge.  
 
-I’m always open to opportunities that help me grow in the **IT and software development** fields.
+**Software Engineer | Tech Enthusiast
 
+**💻 About Me**
+Welocme to my GitHub! I'm a software Engineer with a passion for building efficient , scalabale , and impactful software solutions.
 ---
 
-**📚 Education**  
-- **BS Software Engineering**  
-  *SZABIST University* — 2023–2026  
-
-- **A Levels (Cambridge International)**  
-  *Roots Millennium School* — 2022–2023  
-  - Major: Computer Science  
-
-- **O Levels (Cambridge International)**  
-  *Roots Millennium School* — 2020–2022  
-  - Major: Computer Science  
-
----
 
 **🛠️ Skills**  
 - HTML, CSS, Basic JavaScript (currently revising)  
@@ -37,7 +24,8 @@ I’m always open to opportunities that help me grow in the **IT and software de
 ---
 
 **📫 Contact Me**  
-- **Email**: ilsafaisal650@gmail.com  
+- **Email**: ilsafaisal650@gmail.com
+- **linkedln** https://www.linkedin.com/in/ilsa-faisal-b88294293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 
 
