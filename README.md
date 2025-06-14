@@ -2,6 +2,7 @@
 
 **Software Engineer | Tech Enthusiast
 
+---
 **💻 About Me**
 
 Welocme to my GitHub! I'm a software Engineer with a passion for building efficient , scalabale , and impactful software solutions.
@@ -24,7 +25,7 @@ Welocme to my GitHub! I'm a software Engineer with a passion for building effici
 ---
 
 **📫 Contact Me**  
-- **Email**: ilsafaisal650@gmail.com
+- **Email**: ilsafaisal515@gmail.com
 - **linkedln** https://www.linkedin.com/in/ilsa-faisal-b88294293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 
