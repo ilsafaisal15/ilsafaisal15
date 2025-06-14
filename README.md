@@ -1,13 +1,13 @@
 ## Hi there, I'm Ilsa Faisal 👋
 
-**Software Engineer | Tech Enthusiast**
+Software Engineer | Tech Enthusiast
 
 ---
 **💻 About Me**
 
 Welocme to my GitHub! I'm a software Engineer with a passion for building efficient , scalabale , and impactful software solutions.
 
-
+---
 **🛠️ Skills**  
 - HTML, CSS, Basic JavaScript (currently revising)  
 - Microsoft Office & PowerPoint  
