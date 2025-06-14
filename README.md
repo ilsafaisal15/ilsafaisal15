@@ -1,6 +1,6 @@
 ## Hi there, I'm Ilsa Faisal 👋
 
-**Software Engineer | Tech Enthusiast
+**Software Engineer | Tech Enthusiast**
 
 ---
 **💻 About Me**
