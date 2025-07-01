@@ -9,7 +9,10 @@ Welocme to my GitHub! I'm a software Engineer with a passion for building effici
 
 ---
 **🛠️ Skills**  
-- HTML, CSS, Basic JavaScript (currently revising)  
+- HTML, CSS, JavaScript,PHP
+- Python
+- Generative AI
+- streamlit,Hugging Face 
 - Microsoft Office & PowerPoint  
 - Strong analytical and problem-solving skills  
 - Excellent communication and English proficiency  
@@ -19,7 +22,8 @@ Welocme to my GitHub! I'm a software Engineer with a passion for building effici
 
 **📈 Currently Working On**  
 - Strengthening my web development skills  
-- Building personal projects using HTML, CSS, and JavaScript  
+- Building personal projects using HTML, CSS, and JavaScript
+- Learning Generative AI and building interactive Streamlit apps using Hugging Face Spaces.   
 - Exploring opportunities in software and tech industries  
 
 ---
