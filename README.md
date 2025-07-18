@@ -12,7 +12,8 @@ Welocme to my GitHub! I'm a software Engineer with a passion for building effici
 - HTML, CSS, JavaScript,PHP
 - Python
 - Generative AI
-- streamlit,Hugging Face 
+- streamlit,Gardio,Hugging Face,RAG
+- Agentic AI 
 - Microsoft Office & PowerPoint  
 - Strong analytical and problem-solving skills  
 - Excellent communication and English proficiency  
@@ -32,6 +33,8 @@ Welocme to my GitHub! I'm a software Engineer with a passion for building effici
 - Built and deployed LLM-powered apps using Hugging Face and Streamlit.
 - Created RAG systems for domain-specific question answering.
 - Developed user-friendly interfaces via Gradio for interactive demos.
+
+---
 
 **📫 Contact Me**  
 - **Email**: ilsafaisal515@gmail.com
