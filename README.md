@@ -1,6 +1,6 @@
 ## Hi there, I'm Ilsa Faisal 👋
 
-Software Engineer | Tech Enthusiast
+Software Engineer | Tech Enthusiast | Gen AI Developer | Python . Hugging Face . Streamlit . Rag | Agentic AI | Full-Stack Development . HTML . CSS . PHP . JS . MYSQL 
 
 ---
 **💻 About Me**
@@ -27,6 +27,11 @@ Welocme to my GitHub! I'm a software Engineer with a passion for building effici
 - Exploring opportunities in software and tech industries  
 
 ---
+
+**🛠 Projects:**
+- Built and deployed LLM-powered apps using Hugging Face and Streamlit.
+- Created RAG systems for domain-specific question answering.
+- Developed user-friendly interfaces via Gradio for interactive demos.
 
 **📫 Contact Me**  
 - **Email**: ilsafaisal515@gmail.com
